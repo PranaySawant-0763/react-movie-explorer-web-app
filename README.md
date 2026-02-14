@@ -8,7 +8,7 @@ Features
 - Add / Remove movies from Favorites
 - View movie posters and release dates
 - Dynamic routing using React Router
-- 
+  
 Tech Stack
 - React.js (Functional Components & Hooks)
 - JavaScript
