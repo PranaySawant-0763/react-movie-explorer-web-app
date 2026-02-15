@@ -14,5 +14,7 @@ Tech Stack
 - JavaScript
 - TMDB REST API
 - CSS
+- React Router DOM
+- Context API (for state management)
 
 
